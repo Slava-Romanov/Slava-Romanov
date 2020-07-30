@@ -452,7 +452,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) *
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"searchUpdate\", function() { return searchUpdate; });\n/* harmony import */ var _utils_data__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../utils/data */ \"./src/js/utils/data.js\");\n\nfunction searchUpdate(state, e, type) {\n  return {\n    tableData: { ...state.tableData,\n      elements: _utils_data__WEBPACK_IMPORTED_MODULE_0__[\"default\"].generateSelection(type, e.currentTarget.value),\n      allChecked: false\n    },\n    searchText: e.currentTarget.value,\n    editPanel: { ...state.editPanel,\n      isOpen: null\n    }\n  };\n}\n\n//# sourceURL=webpack:///./src/js/actions/top.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, \"searchUpdate\", function() { return searchUpdate; });\n/* harmony import */ var _utils_data__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../utils/data */ \"./src/js/utils/data.js\");\n\nfunction searchUpdate(state, e, type) {\n  const search = e.currentTarget.value.toLowerCase();\n  return {\n    tableData: { ...state.tableData,\n      elements: _utils_data__WEBPACK_IMPORTED_MODULE_0__[\"default\"].generateSelection(type, search),\n      allChecked: false\n    },\n    searchText: search,\n    editPanel: { ...state.editPanel,\n      isOpen: null\n    }\n  };\n}\n\n//# sourceURL=webpack:///./src/js/actions/top.js?");
 
 /***/ }),
 
