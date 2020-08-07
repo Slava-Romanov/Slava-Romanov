@@ -365,7 +365,7 @@ eval("\n/**\n * When source maps are enabled, `style-loader` uses a link element
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"images/closeModalIcon.svg\");\n\n//# sourceURL=webpack:///./src/images/closeModalIcon.svg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"practice/images/closeModalIcon.svg\");\n\n//# sourceURL=webpack:///./src/images/closeModalIcon.svg?");
 
 /***/ }),
 
@@ -377,7 +377,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"images/panel/closeIcon.svg\");\n\n//# sourceURL=webpack:///./src/images/panel/closeIcon.svg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"practice/images/panel/closeIcon.svg\");\n\n//# sourceURL=webpack:///./src/images/panel/closeIcon.svg?");
 
 /***/ }),
 
@@ -389,7 +389,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"images/panel/downIcon.svg\");\n\n//# sourceURL=webpack:///./src/images/panel/downIcon.svg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"practice/images/panel/downIcon.svg\");\n\n//# sourceURL=webpack:///./src/images/panel/downIcon.svg?");
 
 /***/ }),
 
@@ -401,7 +401,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"images/panel/penIcon.svg\");\n\n//# sourceURL=webpack:///./src/images/panel/penIcon.svg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"practice/images/panel/penIcon.svg\");\n\n//# sourceURL=webpack:///./src/images/panel/penIcon.svg?");
 
 /***/ }),
 
@@ -413,7 +413,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"images/panel/trashIcon.svg\");\n\n//# sourceURL=webpack:///./src/images/panel/trashIcon.svg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"practice/images/panel/trashIcon.svg\");\n\n//# sourceURL=webpack:///./src/images/panel/trashIcon.svg?");
 
 /***/ }),
 
@@ -425,7 +425,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"images/panel/upIcon.svg\");\n\n//# sourceURL=webpack:///./src/images/panel/upIcon.svg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"practice/images/panel/upIcon.svg\");\n\n//# sourceURL=webpack:///./src/images/panel/upIcon.svg?");
 
 /***/ }),
 
@@ -437,7 +437,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"images/penIcon.svg\");\n\n//# sourceURL=webpack:///./src/images/penIcon.svg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"practice/images/penIcon.svg\");\n\n//# sourceURL=webpack:///./src/images/penIcon.svg?");
 
 /***/ }),
 
@@ -449,7 +449,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"images/top/findIcon.svg\");\n\n//# sourceURL=webpack:///./src/images/top/findIcon.svg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"practice/images/top/findIcon.svg\");\n\n//# sourceURL=webpack:///./src/images/top/findIcon.svg?");
 
 /***/ }),
 
@@ -461,7 +461,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ 
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"images/trashIcon.svg\");\n\n//# sourceURL=webpack:///./src/images/trashIcon.svg?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = (__webpack_require__.p + \"practice/images/trashIcon.svg\");\n\n//# sourceURL=webpack:///./src/images/trashIcon.svg?");
 
 /***/ }),
 
